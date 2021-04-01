@@ -1,0 +1,12 @@
+{
+  "id": "carpetbridge",
+  "name": "CarpetBridge",
+  "version": "${version}",
+  "description": "Fixed the Carpet Mod cannot communicate between the client and the server through Velocity Proxy.",
+  "url": "https://github.com/Sanluli36li/CarpetBridge",
+  "authors": [
+    "Sanluli36li"
+  ],
+  "dependencies": [],
+  "main": "net.sanluli36li.velocity.carpetbridge.CarpetBridge"
+}
